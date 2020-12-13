@@ -1,10 +1,10 @@
 # PNU_3991_AR
 
 - [Github](https://github.com/mohammadsarmast)
-- [resume](https://rezvaneh77.github.io//)
-- [SOP](https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/)
-- [javascript Certificate](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf)
-- [jlord patchwork](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg)
+- [resume](https://mohammadsarmast.github.io/resumefa.html)
+- [SOP](https://mohammadsarmast.github.io/index2.html)
+- [javascript Certificate]
+- [jlord patchwork]
 
 
 
@@ -13,8 +13,7 @@
     
 ## دروس کارشناسی
 
-[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
-<br>
+
 [1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 --------------
 ## روز و ساعت ارائه دروس
