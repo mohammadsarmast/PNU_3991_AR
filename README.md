@@ -4,7 +4,7 @@
 - [resume](https://mohammadsarmast.github.io/resumefa.html)
 - [SOP](https://mohammadsarmast.github.io/index2.html)
 - [javascript Certificate](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/js.pdf)
-- [jlord patchwork]
+- [jlord patchwork](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/jlord.jpg)
 
 
 
