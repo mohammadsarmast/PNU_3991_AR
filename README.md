@@ -30,6 +30,7 @@
 بخش عمومی
 ----
 [ارزیابی رزومه و انگیزه نامه](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_CV_CheckList_AR_3991.pdf)
+<br>
 [خلاصه ارزیابی و فعالیت های مشترک](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_GeneralSection_CheckList_AR_3991.pdf)
 
 بخش دروس کارشناسی
