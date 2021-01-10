@@ -25,13 +25,13 @@
     1. [_RPM02-35_امیرحسین عارف](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/35_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B9%D8%A7%D8%B1%D9%81)
 
 --------------
-ارزیابی ها
-###بخش عمومی
+##ارزیابی
+##بخش عمومی
 ----
 [ارزیابی رزومه و انگیزه نامه](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_CV_CheckList_AR_3991.pdf)
 [خلاصه ارزیابی و فعالیت های مشترک](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_GeneralSection_CheckList_AR_3991.pdf)
 
-###بخش دروس کارشناسی
+##بخش دروس کارشناسی
 ---
 [ارزیابی درس روش پژوهش](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 --------------
