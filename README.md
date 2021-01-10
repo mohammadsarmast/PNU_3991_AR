@@ -26,6 +26,7 @@
 
 --------------
 ##ارزیابی
+-------------
 ##بخش عمومی
 ----
 [ارزیابی رزومه و انگیزه نامه](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_CV_CheckList_AR_3991.pdf)
