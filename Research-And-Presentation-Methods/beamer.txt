@@ -1,0 +1,31 @@
+\documentclass [12pt]{beamer}
+\usepackage{xcolor}	
+\usepackage{tikz}
+\usetheme{Warsaw}
+\useoutertheme{infolines}
+\usepackage{ragged2e}
+\begin{document}
+
+\section*{Summary page 82 and 84}
+\subsection*{Mohammad Sarmast }	
+\begin{frame}
+\justifying	
+In Microsoft word it is possible to process the word. Groov 1.0 supports calendar and page design, and promises to support wider editing of word processing and page packages in its next version. Organizations host and support multiple paid users.
+
+There are many programs for time planning and management that help the advanced team to manage the project. But small e-research teams can easily coordinate their activities through a joint project or email. One of the features that is not present in joint projects is time tracking. And obviously the amount of time it takes to do research is very important, and electronic researchers need to be able to control their time for different parts of the research.
+\end{frame}
+
+\begin{frame}
+\justifying	
+In this section, we will offer two software, Riff fullan and TraxTime. Each version of TraxTime has a network administrator available, both of which can save time spent by team members. TraxTime generates a variety of customizable reports.
+
+The need for a colleague has crept into most areas of e-research, but if we share the results of discussions with others, individual researchers will also be helped, and there are programs for people to share their experiences with others. And provides initial drafts in a file space with network access and controlled access to important documents.
+\end{frame}
+
+\begin{frame}
+\justifying
+
+Conducting a quick survey lets us know the opinions of team members, which determines the priorities of team members, and the calendar feature is useful for setting deadlines and reminders of meetings and timely consultations for team members. In short, there are different types of programs that increase participation and collaboration. It is expected that in the future, increasing access to pure program services will also increase the ease and use of collaboration.
+
+\end{frame}
+\end{document}	
