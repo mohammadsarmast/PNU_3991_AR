@@ -1,0 +1,55 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage{graphicx}
+\begin{document}
+
+\small
+
+\begin{flushleft}
+  84 \, ~~~~CHAPTER SIX
+\end{flushleft}
+
+
+
+conducting quick surveys of opinions and priorities of team members. The calendar feature is useful for setting deadlines and for reminding members of real-time meetings and consultations.
+
+In summary, there are a variety of Web-enabled collaborative applications that are capable of supporting an expanding list of group activities. It seems likely that these applications will beeome an increasingly important and valuable component of the e-research process. It is also likely that these applications will become more useful, as additional features are added and their functionality increased through user feed- back. We also expect that increasing access to Net services provided by mobile devices will increase the ease and practicality of collaboration research.
+
+\begin{flushleft}
+
+\end{flushleft}
+   
+
+\hline
+
+
+
+\begin{flushleft}
+\normalsize
+
+\textbf{REFERENCES}
+
+\end{flushleft}
+
+Becher, T. (1989). Academic tribes and territories-Intellectual enquiry and the cultures of
+discipline. Mil- ton Keynes, England: Open University Press.
+
+Bogdan, R., & Biklen, S. (1982). Qualitative research for education: An introduction to theory
+and metbods. Boston: Allyn & Bacon. 
+
+Fullan, R. (1999). Time tracking. [Online]. Available: http://www.bellanet.org/advisor/index
+.cfm?Fuseaction=view_article&TheArticle=30.
+
+Hine, C. (2000). Virtual ethnography. London: Sage.
+
+Nunes, M. (1997). Scholarly discourse and collaborative research online. [Online]. Available:
+http://www.dc.peachnet.edu/-mnunes/samla.htm.
+
+Riger, S. (1997). Challenges in collaborative research: Trust, time, and talent. In University of
+Illinois at Chicago (Ed.).
+
+Rogers, E. (1995). Diffusion of innovations. (4th ed.). New York: Free Press.
+
+Wenger, E. (2001). Supporting communities of practice: A survey of community-orientated tech-
+nologies. (1.3 ed.). Shareware. [Online]l. Available: http://www.ewenger.com/tech/.
+
+\end{document}

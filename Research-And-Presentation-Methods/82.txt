@@ -1,0 +1,37 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage{graphicx}
+\begin{document}
+
+\small
+
+\begin{flushleft}
+  82 \,~~~~ CHAPTER SIX
+\end{flushleft}
+
+
+\includegraphics[width=12cm]{5.jpg}
+
+\begin{flushleft}
+
+\textbf{~~~FIGURE6.3}
+Screen shot of Groove Software
+  
+\end{flushleft}
+\begin{flushleft}
+
+\end{flushleft}
+   
+
+
+found in Microsoft Word and other full-featured word processing packages. Finally, Groove 1.0 supports a calendar and sketchpad and promises to support more extensive collaborative editing of word processing and spreadsheet packages in future releases. Groove is also marketed in a "light" version that can be downloaded for free. Larger, more functional enterprise solutions that support multiple users are available on a cost-per-user basis. A screen shot of Groove in use by the authors to collaboratively share work on this book is shown in Figure 6.3.
+
+
+\begin{flushleft}
+\normalsize
+
+\textbf{TIME TRACJING}
+
+\end{flushleft}
+Many projects require sophisticated tracking, scheduling, and cost and time allocation for administration and billing purposes. There are a variety of commercial and share- ware software packages to aid teams in sophisticated levels of project management. However, small e-research teams are often able to coordinate their activities less for- mally through the collaborative projects cited previously or simply through regular email. One feature that is not provided in these collaborative projects is time tracking. Obviously, this information is critical if research is being done on fee-per-hour basis, but even if it is not, e-researchers should be able to measure, and thus more accurately control their time on various components of the research process.
+
+\end{document}

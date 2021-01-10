@@ -1,0 +1,37 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage{graphicx}
+\begin{document}
+
+\small
+
+\begin{flushright}
+COLLABORATIVE E-RESEARCH~~~~\quad \textbf{83}
+\end{flushright}
+
+\includegraphics[width=9cm]{83/3.jpg}
+
+\begin{flushleft}
+
+\textbf{~~~FIGURE6.4}
+~Screen shot of Spud City's TraxTime Software
+  
+\end{flushleft}
+\begin{flushleft}
+
+\end{flushleft}
+   
+
+Although there are many competitive products available, we concur with Riff Fullan's (1999) recommendation for shareware called TraxTime (http://www.spudcity. com/traxtime/traxtime.htm). TraxTime is available in either a single user or a net- worked manager's version, both of which allow for compilation of time spent by vari- ous team members. A memo can be added to each entry to provide supporting details. TraxTime produces a variety of customizable reports and has received excellent rec- ommendations from a variety of software reviewers. A screen shot illustrating a typical time tracking task is shown in Figure 6.4.
+
+
+\begin{flushleft}
+\normalsize
+
+\textbf{APPLICATION OF COLLABORATIVE SOFTWARE BY e-RESEARCHERS}
+
+\end{flushleft}
+The need for collaboration permeates most aspects of the e-research project. This is most obvious when there is a team of researchers, but collaboration is also useful for the solitary researcher during those components of the research process when results, discussions, or questions must be shared with others.
+
+~~~Net-based collaborative software is relatively new, and we are just discovering ways that e-research teams can use these powerful tools. As noted in earlier chaprers, the e-research process commences with selection and refinement of a research prob- lem. Often this process is iterative, as various drafts are shared with sponsors, supervi- sors, or members of the research team. Placing initial drafts in a Net-accessible file space allows for controlled access to important documents. During the literature review process, a collaborative workspace is also useful for documenting, summarizing, and sharing insights from research. Each of the three packages reviewed in this chap- ter provides space for listing and annotating Web sites, databases, and other references found on the Net. The polling feature of these collaborative packages is handy for
+
+\end{document}
