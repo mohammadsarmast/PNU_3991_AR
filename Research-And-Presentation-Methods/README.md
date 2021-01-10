@@ -20,8 +20,8 @@
 - [84.pdf](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/84.pdf)
 - [84.tex](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/84.txt)
 
-# ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر
-- [ارائه شفاهی با بیمر](https://aparat.com/v/pJcbO)
+# ارائه شفاهی +(بیمر) از منابع دیگر
+- [ارائه شفاهی با بیمر](https://aparat.com/v/yLFd3)
 - [beamer.pdf](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.pdf)
 - [beamer.tex](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.txt)
 
