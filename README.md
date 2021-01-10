@@ -26,13 +26,24 @@
 
 --------------
 ##ارزیابی
+
+
 -------------
+
+
+
 ##بخش عمومی
+
+
+
 ----
 [ارزیابی رزومه و انگیزه نامه](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_CV_CheckList_AR_3991.pdf)
 [خلاصه ارزیابی و فعالیت های مشترک](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/_General/_GeneralSection_CheckList_AR_3991.pdf)
 
 ##بخش دروس کارشناسی
+
+
+
 ---
 [ارزیابی درس روش پژوهش](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 --------------
