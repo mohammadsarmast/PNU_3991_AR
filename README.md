@@ -14,7 +14,7 @@
 ## دروس کارشناسی
 
 
-[1322010_02 روش پژوهش و ارائه](https://github.com/mohammadsarmast/PNU_3991_AR/blob/main/README.md)
+[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/28_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B1%D9%85%D8%B3%D8%AA)
 --------------
 ## گروه
 1. G-R01
